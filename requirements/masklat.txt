@@ -1,0 +1,8 @@
+pycocotools
+git+https://github.com/cocodataset/panopticapi.git
+textwrap3
+tabulate
+scikit-learn
+pycocoevalcap
+mmcv-lite>=2.0.0
+xtuner
